@@ -19,3 +19,16 @@ Niveles de Almacenamiento y tipos
 File y SharedPreferences
 Content Providers Bases de Datos y Network
 
+
+ Diseño de Interfaces con Android Studio:
+ViewGroup y View:Diferencias básicas
+Atributos importantes: alto,ancho,id
+namespace tools
+LinearLayout: Organización lineal
+RelativeLayout: organizando con referencias
+FramLayout: Alineación por región
+Layouts externos: ConstraintLayout
+¿Qué es un estilo?
+¿Qué es un tema?
+Distribuyendo nuestros valores
+

@@ -20,7 +20,7 @@ File y SharedPreferences
 Content Providers Bases de Datos y Network
 
 
- Diseño de Interfaces con Android Studio:
+DISEÑO DE INTERFACES CON ANDROID STUDIO:
 ViewGroup y View:Diferencias básicas
 Atributos importantes: alto,ancho,id
 namespace tools
